@@ -29,3 +29,4 @@ ZCZC W00 50 L02 ZOOM meetings related
 ZCZC W00 120 L70 Studying for other courses
 ZCZC W00 10 L87 Dinner
 ZCZC W00 20 L41 Assignment #5
+ZCZC W00 30 L08 OS Chat related (LINE) with Friend
