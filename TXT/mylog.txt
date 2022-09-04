@@ -34,4 +34,4 @@ ZCZC W00 10 L87 Lunch
 ZCZC W00 120 L80 Watching: Netflix
 ZCZC W00 10 L87 Dinner
 ZCZC W00 120 L15 Assignment #05
-ZCZC W00 5 L41 TXT/mylog.txt related.
+ZCZC W00 5 L16 Assignment #06
