@@ -1,6 +1,6 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Emily Rumia</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
@@ -9,7 +9,7 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
+This is {{ site.title }} and I am Emily Rumia.
 <br><br>
 This is the way!
 <br>
@@ -18,5 +18,5 @@ This is the way!
 <hr>
 <br>
 
-<!-- [LINKS]({{ site.baseurl }}/LINKS/) --- -->
+
 <!-- [TIPS]({{ site.baseurl }}/TIPS/) --- -->
