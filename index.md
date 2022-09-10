@@ -1,6 +1,6 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By Emily Rumia</span>
+<span style="color:green; font-weight:bold; font-size:larger;">By Emily Rumia Naomi</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
