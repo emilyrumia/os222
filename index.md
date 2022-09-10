@@ -2,10 +2,10 @@
 ---
 <span style="color:green; font-weight:bold; font-size:larger;">By Emily Rumia Naomi</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ||
-[LINKS]({{ site.baseurl }}/LINKS/) ||
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ||
-[TARBALL](SandBox/emilyrumia.tar.xz) ||
+[HOME]({{ site.baseurl }}/) •
+[LINKS]({{ site.baseurl }}/LINKS/) •
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) •
+[TARBALL](SandBox/emilyrumia.tar.xz) •
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
