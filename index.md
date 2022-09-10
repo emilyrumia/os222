@@ -9,7 +9,7 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is {{ site.title }} and I am Emily Rumia.
+This is {{ site.title }} and I am Emily Rumia Naomi
 <br><br>
 This is the way!
 <br>
