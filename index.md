@@ -1,1 +1,20 @@
-[Links](https://pages.github.com/), [Github](https://github.com/emilyrumia/os222), [Log](https://emilyrumia.github.io/os222/TXT/mylog.txt).
+---
+---
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>
+[HOME]({{ site.baseurl }}/) ---
+<!-- [LINKS]({{ site.baseurl }}/LINKS/) --- -->
+<!-- [TIPS]({{ site.baseurl }}/TIPS/) --- -->
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL](SandBox/emilyrumia.tar.xz) ---
+[GITHUB]({{ site.githublink }})
+<br>
+<hr>
+This is {{ site.title }} and I am {{ site.author }}.
+<br><br>
+This is the way!
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
