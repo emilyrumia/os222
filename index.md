@@ -3,8 +3,6 @@
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
-<!-- [LINKS]({{ site.baseurl }}/LINKS/) --- -->
-<!-- [TIPS]({{ site.baseurl }}/TIPS/) --- -->
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
 [TARBALL](SandBox/emilyrumia.tar.xz) ---
 [GITHUB]({{ site.githublink }})
@@ -18,3 +16,6 @@ This is the way!
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
+
+<!-- [LINKS]({{ site.baseurl }}/LINKS/) --- -->
+<!-- [TIPS]({{ site.baseurl }}/TIPS/) --- -->
