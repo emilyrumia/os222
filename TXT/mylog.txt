@@ -38,5 +38,32 @@ ZCZC W00 5 L16 Assignment #06
 ZCZC W01 200 L70 Studying for other courses
 ZCZC W01 10 L87 Lunch
 ZCZC W01 60 L11 Assignment #01
+ZCZC W01 60 L62 Install Virtual Debian Guest
 ZCZC W01 10 L87 Dinner
 ZCZC W01 2 L41 TXT/mylog.txt related.
+ZCZC W01 300 L02 ZOOM meetings related
+ZCZC W01 30 L83 Pets: feeding, playing
+ZCZC W01 50 L70 Studying for other courses
+ZCZC W01 50 L84 Sleep
+ZCZC W01 50 L70 Studying for other courses
+ZCZC W01 60 L80 Watching: Netflix
+ZCZC W01 10 L87 Dinner
+ZCZC W01 200 L02 ZOOM meetings related
+ZCZC W01 10 L87 Lunch
+ZCZC W01 100 L02 ZOOM meetings related
+ZCZC W01 25 L87 Dinner
+ZCZC W01 5 L64 Helping a friend (OS related problem)
+ZCZC W01 10 L01 SCELE/Discord related
+ZCZC W01 10 L87 Lunch
+ZCZC W01 50 L02 ZOOM meetings related
+ZCZC W01 120 L70 Studying for other courses
+ZCZC W01 10 L87 Dinner
+ZCZC W01 60 L98 Organization’s weekly meeting
+ZCZC W01 10 L87 Lunch
+ZCZC W01 120 L80 Watching: Netflix
+ZCZC W01 10 L87 Dinner
+ZCZC W01 10 L08 OS Chat related (LINE) with Friend
+ZCZC W01 5 L13 Assignment #03
+ZCZC W01 30 L13 Assignment #02
+ZCZC W01 60 L11 Assignment #01
+ZCZC 15 L32 YouTube: watching OS related topics
