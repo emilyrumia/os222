@@ -10,3 +10,5 @@ permalink: LINKS/
 [GITHUB](https://github.com/emilyrumia/os222)
 <br>
 <hr>
+1. https://phoenixnap.com/kb/install-putty-on-mac
+2. 
