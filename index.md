@@ -4,7 +4,7 @@
 <br><br>
 [HOME]({{ site.baseurl }}/) •
 [LINKS]({{ site.baseurl }}/LINKS/) •
-[LOG](https://emilyrumia.github.io/os222/TXT/mylog.txt) •
+[LOG](TXT/mylog.txt) •
 [TARBALL](SandBox/emilyrumia.tar.xz) •
 [GITHUB](https://github.com/emilyrumia/os222)
 <br>
