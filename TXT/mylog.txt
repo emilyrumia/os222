@@ -96,3 +96,24 @@ ZCZC W02 20 L08 OS Chat related (LINE) with Friend
 ZCZC W02 10 L15 Assignment #05
 ZCZC W02 10 L16 Assignment #06
 ZCZC W02 10 L13 Assignment #03
+ZCZC W03 60 L80 Watching: Youtube
+ZCZC W03 200 L70 Studying for other courses
+ZCZC W03 10 L87 Lunch
+ZCZC W03 60 L11 Assignment #01
+ZCZC W03 10 L87 Dinner
+ZCZC W03 20 L83 Pets: feeding, playing
+ZCZC W03 W02 10 L87 Lunch
+ZCZC W03 30 L84 Sleep
+ZCZC W03 10 L87 Dinner
+ZCZC W03 10 L87 Lunch
+ZCZC W03 50 L70 Studying for other courses
+ZCZC W03 10 L87 Dinner
+ZCZC W03 300 L02 ZOOM meetings related
+ZCZC W03 25 L87 Dinner
+ZCZC W03 60 L85 Baby Sit
+ZCZC W03 30 L12 Assignment #02
+ZCZC W03 20 L13 Assignment #03
+ZCZC W03 20 L08 OS Chat related Friend
+ZCZC W03 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W03 5 L41 TXT/mylog.txt related
+ZCZC W03 1 L40 TXT/ related in general.
