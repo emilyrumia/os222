@@ -1,0 +1,119 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W00 300 L02 ZOOM meetings related
+ZCZC W00 5 L11 Assignment #01
+ZCZC W00 2 L12 Assignment #02
+ZCZC W00 5 L13 Assignment #03
+ZCZC W00 2 L14 Assignment #04
+ZCZC W00 30 L83 Pets: feeding, playing
+ZCZC W00 60 L80 Watching: Netflix
+ZCZC W00 10 L87 Dinner
+ZCZC W00 10 L87 Lunch
+ZCZC W00 30 L83 Pets: feeding, playing
+ZCZC W00 50 L70 Studying for other courses
+ZCZC W00 50 L84 Sleep
+ZCZC W00 50 L70 Studying for other courses
+ZCZC W00 60 L80 Watching: Youtube
+ZCZC W00 10 L87 Dinner
+ZCZC W00 200 L02 ZOOM meetings related
+ZCZC W00 10 L87 Lunch
+ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 60 L98 Organization’s weekly meeting
+ZCZC W00 120 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 25 L87 Dinner
+ZCZC W00 10 L01 SCELE/Discord related
+ZCZC W00 10 L87 Lunch
+ZCZC W00 50 L02 ZOOM meetings related
+ZCZC W00 120 L70 Studying for other courses
+ZCZC W00 10 L87 Dinner
+ZCZC W00 20 L41 TXT/mylog.txt related.
+ZCZC W00 30 L08 OS Chat related (LINE) with Friend
+ZCZC W00 10 L87 Lunch
+ZCZC W00 120 L80 Watching: Netflix
+ZCZC W00 10 L87 Dinner
+ZCZC W00 120 L15 Assignment #05
+ZCZC W00 5 L16 Assignment #06
+ZCZC W01 200 L70 Studying for other courses
+ZCZC W01 10 L87 Lunch
+ZCZC W01 60 L11 Assignment #01
+ZCZC W01 60 L62 Install Virtual Debian Guest
+ZCZC W01 10 L87 Dinner
+ZCZC W01 2 L41 TXT/mylog.txt related.
+ZCZC W01 300 L02 ZOOM meetings related
+ZCZC W01 30 L83 Pets: feeding, playing
+ZCZC W01 50 L70 Studying for other courses
+ZCZC W01 50 L84 Sleep
+ZCZC W01 50 L70 Studying for other courses
+ZCZC W01 60 L80 Watching: Netflix
+ZCZC W01 10 L87 Dinner
+ZCZC W01 200 L02 ZOOM meetings related
+ZCZC W01 10 L87 Lunch
+ZCZC W01 100 L02 ZOOM meetings related
+ZCZC W01 25 L87 Dinner
+ZCZC W01 5 L64 Helping a friend (OS related problem)
+ZCZC W01 10 L01 SCELE/Discord related
+ZCZC W01 10 L87 Lunch
+ZCZC W01 50 L02 ZOOM meetings related
+ZCZC W01 120 L70 Studying for other courses
+ZCZC W01 10 L87 Dinner
+ZCZC W01 60 L98 Organization’s weekly meeting
+ZCZC W01 10 L87 Lunch
+ZCZC W01 120 L80 Watching: Netflix
+ZCZC W01 10 L87 Dinner
+ZCZC W01 10 L08 OS Chat related (LINE) with Friend
+ZCZC W01 5 L13 Assignment #03
+ZCZC W01 30 L13 Assignment #02
+ZCZC W01 60 L11 Assignment #01
+ZCZC W01 15 L32 YouTube: watching OS related topics
+ZCZC W02 10 L01 SCELE/Discord related
+ZCZC W02 200 L70 Studying for other courses
+ZCZC W02 60 L80 Watching: Netflix
+ZCZC W02 10 L87 Lunch
+ZCZC W02 60 L84 Sleep
+ZCZC W02 10 L87 Dinner
+ZCZC W02 10 L87 Lunch
+ZCZC W02 50 L70 Studying for other courses
+ZCZC W02 60 L80 Watching: Youtube
+ZCZC W02 20 L83 Pets: feeding, playing
+ZCZC W02 10 L87 Dinner
+ZCZC W02 200 L02 ZOOM meetings related
+ZCZC W02 10 L87 Lunch
+ZCZC W02 100 L02 ZOOM meetings related
+ZCZC W02 60 L85 Baby Sit
+ZCZC W02 25 L87 Dinner
+ZCZC W02 30 L08 OS Chat related (LINE) with Friend
+ZCZC W02 60 L11 Assignment #01
+ZCZC W02 60 L12 Assignment #02
+ZCZC W02 60 L26 GnuPG
+ZCZC W02 10 L87 Lunch
+ZCZC W02 60 L84 Sleep
+ZCZC W02 30 L85 Baby Sit
+ZCZC W02 10 L87 Dinner
+ZCZC W02 10 L14 Assignment #04
+ZCZC W02 20 L08 OS Chat related (LINE) with Friend
+ZCZC W02 10 L15 Assignment #05
+ZCZC W02 10 L16 Assignment #06
+ZCZC W02 10 L13 Assignment #03
+ZCZC W03 60 L80 Watching: Youtube
+ZCZC W03 200 L70 Studying for other courses
+ZCZC W03 10 L87 Lunch
+ZCZC W03 60 L11 Assignment #01
+ZCZC W03 10 L87 Dinner
+ZCZC W03 20 L83 Pets: feeding, playing
+ZCZC W03 W02 10 L87 Lunch
+ZCZC W03 30 L84 Sleep
+ZCZC W03 10 L87 Dinner
+ZCZC W03 10 L87 Lunch
+ZCZC W03 50 L70 Studying for other courses
+ZCZC W03 10 L87 Dinner
+ZCZC W03 300 L02 ZOOM meetings related
+ZCZC W03 25 L87 Dinner
+ZCZC W03 60 L85 Baby Sit
+ZCZC W03 30 L12 Assignment #02
+ZCZC W03 20 L13 Assignment #03
+ZCZC W03 20 L08 OS Chat related Friend
+ZCZC W03 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W03 5 L41 TXT/mylog.txt related
+ZCZC W03 1 L40 TXT/ related in general.
