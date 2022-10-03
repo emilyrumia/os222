@@ -117,3 +117,29 @@ ZCZC W03 20 L08 OS Chat related Friend
 ZCZC W03 10 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W03 5 L41 TXT/mylog.txt related
 ZCZC W03 1 L40 TXT/ related in general.
+ZCZC W04 200 L70 Studying for other courses
+ZCZC W04 10 L87 Lunch
+ZCZC W04 30 L83 Pets: feeding, playing
+ZCZC W04 10 L87 Dinner
+ZCZC W04 300 L02 ZOOM meetings related
+ZCZC W04 50 L70 Studying for other courses
+ZCZC W04 50 L84 Sleep
+ZCZC W04 50 L70 Studying for other courses
+ZCZC W04 60 L80 Watching: Netflix
+ZCZC W04 10 L87 Dinner
+ZCZC W04 200 L02 ZOOM meetings related
+ZCZC W04 10 L87 Lunch
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 25 L87 Dinner
+ZCZC W04 10 L87 Lunch
+ZCZC W04 50 L02 ZOOM meetings related
+ZCZC W04 120 L70 Studying for other courses
+ZCZC W04 10 L87 Dinner
+ZCZC W04 10 L87 Lunch
+ZCZC W04 120 L80 Watching: Youtube
+ZCZC W04 10 L87 Dinner
+ZCZC W04 10 L08 OS Chat related (LINE) with Friend
+ZCZC W04 90 L13 Assignment #01
+ZCZC W04 30 L11 Assignment #03
+ZCZC W04 5 L41 TXT/mylog.txt related.
+ZCZC W04 10 L08 OS Chat related (LINE) with Friend
