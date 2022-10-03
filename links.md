@@ -30,5 +30,9 @@ permalink: LINKS/
 <br>
    This link explain how file system in os works.
 <br>
-6.
+6. [Six](https://www.matoski.com/article/xz-compress-directory/ )
+<br>
+   This link show me steps how to compress directory to tar.xz
+<br>
+
 
