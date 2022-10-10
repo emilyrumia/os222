@@ -34,5 +34,8 @@ permalink: LINKS/
 <br>
    This link show me steps how to compress directory to tar.xz
 <br>
-
+7. [Seven](https://osp4diss.vlsm.org/osp-130.html)
+<br>
+   This link show me how to change memory in UTM M1
+<br>
 

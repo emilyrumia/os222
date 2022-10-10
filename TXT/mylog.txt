@@ -102,7 +102,7 @@ ZCZC W03 10 L87 Lunch
 ZCZC W03 60 L11 Assignment #01
 ZCZC W03 10 L87 Dinner
 ZCZC W03 20 L83 Pets: feeding, playing
-ZCZC W03 W02 10 L87 Lunch
+ZCZC W03 10 L87 Lunch
 ZCZC W03 30 L84 Sleep
 ZCZC W03 10 L87 Dinner
 ZCZC W03 10 L87 Lunch
@@ -143,3 +143,25 @@ ZCZC W04 90 L13 Assignment #01
 ZCZC W04 30 L11 Assignment #03
 ZCZC W04 5 L41 TXT/mylog.txt related.
 ZCZC W04 10 L08 OS Chat related (LINE) with Friend
+ZCZC W05 60 L80 Watching: Netflix
+ZCZC W05 200 L70 Studying for other courses
+ZCZC W05 10 L87 Lunch
+ZCZC W05 10 L87 Dinner
+ZCZC W05 20 L83 Pets: feeding, playing
+ZCZC W05 10 L87 Lunch
+ZCZC W05 30 L84 Sleep
+ZCZC W05 10 L87 Dinner
+ZCZC W05 10 L87 Lunch
+ZCZC W05 50 L70 Studying for other courses
+ZCZC W05 10 L87 Dinner
+ZCZC W05 300 L02 ZOOM meetings related
+ZCZC W05 25 L87 Dinner
+ZCZC W05 60 L85 Baby Sit
+ZCZC W05 30 L08 OS Chat related Friend
+ZCZC W05 90 L11 Assignment #01
+ZCZC W05 5 L12 Assignment #02
+ZCZC W05 20 L13 Assignment #03
+ZCZC W05 30 L14 Assignment #04
+ZCZC W05 10 L15 Assignment #05
+ZCZC W05 5 L41 TXT/mylog.txt related
+ZCZC W05 1 L40 TXT/ related in general.
