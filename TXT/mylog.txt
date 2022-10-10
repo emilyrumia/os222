@@ -159,9 +159,9 @@ ZCZC W05 25 L87 Dinner
 ZCZC W05 60 L85 Baby Sit
 ZCZC W05 30 L08 OS Chat related Friend
 ZCZC W05 90 L11 Assignment #01
-ZCZC W05 L12 Assignment #02
-ZCZC W05 L13 Assignment #03
-ZCZC W05 L14 Assignment #04
-ZCZC W05 L15 Assignment #05
+ZCZC W05 5 L12 Assignment #02
+ZCZC W05 20 L13 Assignment #03
+ZCZC W05 30 L14 Assignment #04
+ZCZC W05 10 L15 Assignment #05
 ZCZC W05 5 L41 TXT/mylog.txt related
 ZCZC W05 1 L40 TXT/ related in general.
