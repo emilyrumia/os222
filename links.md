@@ -38,4 +38,10 @@ permalink: LINKS/
 <br>
    This link show me how to change memory in UTM M1
 <br>
+8. [Eight](https://www.cherryservers.com/blog/how-to-archive-and-compress-files-with-the-tar-and-gizp-commands-in-linux)
+<br>
+  To do POP QUIZ 2 Week 6, This link show me how to archive and encrypt directory.
+9. [Nine](https://wiki.debian.org/HowToUpgradeKernel)
+<br>
+  To do POP QUIZ 3 Week 6, This link show me how to update kernel.
 
