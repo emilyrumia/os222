@@ -11,3 +11,6 @@ ZCZC W04 gibranoderenz
 ZCZC W05 HansTM
 ZCZC W05 ferupk
 ZCZC W05 nailashfrni
+ZCZC W06 naufalweise
+ZCZC W06 swastikanata
+ZCZC W06 diafias
