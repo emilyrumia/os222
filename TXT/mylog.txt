@@ -186,3 +186,13 @@ ZCZC W06 5 L13 Assignment #03
 ZCZC W06 20 L14 Assignment #04
 ZCZC W06 5 L41 TXT/mylog.txt related
 ZCZC W06 1 L40 TXT/ related in general.
+ZCZC W07 200 L70 Studying for other courses
+ZCZC W07 60 L84 SLEEP
+ZCZC W07 L87 LUNCH
+ZCZC W07 20 L08 OS Chat related Friend
+ZCZC W07 10 L12 Assignment #02
+ZCZC W07 30 L13 Assignment #03 
+ZCZC W07 10 L14 Assignment #04
+ZCZC W07 10 L08 OS Chat related Friend
+ZCZC W07 60 L11 Assignment #01
+ZCZC W07 2 L41 TXT/mylog.txt related

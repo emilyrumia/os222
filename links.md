@@ -44,3 +44,8 @@ permalink: LINKS/
 9. [Nine](https://wiki.debian.org/HowToUpgradeKernel)
 <br>
   To do POP QUIZ 3 Week 6, This link show me how to update kernel.
+<br>
+10. [Ten](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+<br>
+  This link show me how to copy file between my virtual guest folder and folder inside os1.cs.ui.ac.id
+<br>
