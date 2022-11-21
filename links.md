@@ -49,3 +49,7 @@ permalink: LINKS/
 <br>
   This link show me how to copy file between my virtual guest folder and folder inside os1.cs.ui.ac.id
 <br>
+11. [Eleven](https://www.linuxfromscratch.org/)
+<br>
+  This link show me how to do linux from scratch
+<br>
