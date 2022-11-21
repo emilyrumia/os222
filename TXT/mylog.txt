@@ -196,3 +196,12 @@ ZCZC W07 10 L14 Assignment #04
 ZCZC W07 10 L08 OS Chat related Friend
 ZCZC W07 60 L11 Assignment #01
 ZCZC W07 2 L41 TXT/mylog.txt related
+ZCZC W08 200 L70 Studying for other courses
+ZCZC W08 L87 LUNCH
+ZCZC W08 60 L11 Assignment #01
+ZCZC W08 15 L12 Assignment #02
+ZCZC W08 180 L13 Assignment #03
+ZCZC W08 15 L14 Assignment #04
+ZCZC W08 60 L84 SLEEP
+ZCZC W08 20 L08 OS Chat related Friend
+ZCZC W08 3 L41 TXT/mulog.txt related

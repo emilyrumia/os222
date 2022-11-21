@@ -17,3 +17,6 @@ ZCZC W06 diafias
 ZCZC W07 rahmaadnda
 ZCZC W07 rikzakurnia
 ZCZC W07 naufalweise
+ZCZC W08 nailashfrni
+ZCZC W08 rahmaadnda
+ZCZC W08 HansTM
