@@ -53,3 +53,7 @@ permalink: LINKS/
 <br>
   This link show me how to do linux from scratch
 <br>
+12. [Twelve](youtube.com/watch?v=J752kh-VYkU)
+<br>
+  This youtube link show me how to do linux scratch chapter 6
+<br>
