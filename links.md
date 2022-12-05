@@ -57,3 +57,7 @@ permalink: LINKS/
 <br>
   This youtube link show me how to do linux scratch chapter 6
 <br>
+13. [Thirteen](https:/www.youtube.com/watch?v=cmH5B7LjhoE)
+<br>
+  This youtube link show me how to do linux scratch chapter 8
+<br>
